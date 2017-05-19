@@ -1,1 +1,5 @@
-hola losers
+To install
+
+git clone
+npm install
+npm install -g react-native-cli --save
